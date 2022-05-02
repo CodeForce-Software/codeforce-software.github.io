@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\assets",
+    "\\assets\\img"
   ],
-  "SelectedNode": "\\C:\\CODIGO\\GIT\\CodeForce-Software.github.io",
+  "SelectedNode": "\\index.html",
   "PreviewInSolutionExplorer": false
 }
